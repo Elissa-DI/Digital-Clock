@@ -1,0 +1,51 @@
+.Timer {
+    margin: 75px 130px 0px 0px;
+    width: 300px;
+    height: 200px;
+    float: right;
+    font-size: 25px;
+    /* background-color: aqua; */
+}
+.time-all {
+    margin-left: 20px;
+}
+.Timer button {
+    width: 80px;
+    height: 25px;
+    margin-left: 5px;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0px 0px 3px black;
+}
+.btn-1 {
+    box-shadow: 0px 0px 3px green !important;
+    background-color: #fff;
+}
+.btn-1:hover {
+    color: white;
+    background-color: green;
+}
+.btn-2 {
+    background-color: #fff;
+    color: red;
+}
+.btn-2:hover {
+    background-color: rgb(112, 31, 31);
+    color: #fff;
+}
+.btn-3 {
+    background-color: #fff;
+    color: chocolate;
+}
+.btn-3:hover {
+    background-color: chocolate;
+    color: #fff;
+}
+.btn-4 {
+    background-color: #fff;
+    color: red;
+}
+.btn-4:hover {
+    background-color: red;
+    color: #fff;
+}
